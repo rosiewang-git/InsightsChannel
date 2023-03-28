@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/InsightsChannel/static/css/main.afd7172b.chunk.css",
+    "main.js": "/InsightsChannel/static/js/main.9c4029b9.chunk.js",
+    "main.js.map": "/InsightsChannel/static/js/main.9c4029b9.chunk.js.map",
+    "runtime-main.js": "/InsightsChannel/static/js/runtime-main.7bfd652b.js",
+    "runtime-main.js.map": "/InsightsChannel/static/js/runtime-main.7bfd652b.js.map",
+    "static/js/2.a9e8cf08.chunk.js": "/InsightsChannel/static/js/2.a9e8cf08.chunk.js",
+    "static/js/2.a9e8cf08.chunk.js.map": "/InsightsChannel/static/js/2.a9e8cf08.chunk.js.map",
+    "index.html": "/InsightsChannel/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/InsightsChannel/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.a9e8cf08.chunk.js.LICENSE.txt": "/InsightsChannel/static/js/2.a9e8cf08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bfd652b.js",
+    "static/js/2.a9e8cf08.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.9c4029b9.chunk.js"
+  ]
+}
